@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+
+# Build artifacts
+*.o
+*.so
+*.a
+vnc_pixel_conv
+Makefile
